@@ -1,0 +1,6 @@
+@IChiba.Customer.API_HostAddress = http://localhost:5139
+
+GET {{IChiba.Customer.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
